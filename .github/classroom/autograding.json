@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "made a readme&#63;",
+      "setup": "",
+      "run": "test -f README.md && echo \"SUCCESS\"",
+      "input": "",
+      "output": "SUCCESS",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
